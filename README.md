@@ -1,4 +1,3 @@
-# threats
 
 ## Threat Intel Feed
 

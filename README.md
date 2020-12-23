@@ -1,6 +1,6 @@
 # threats
 
-##Threat Intel Feed
+## Threat Intel Feed
 
 Use for sumologic lookup table for malware,vulnerable,malicious,scanner example
 

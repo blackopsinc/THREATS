@@ -4,7 +4,7 @@ Threat Intel Feed
 
 Use for sumologic lookup table for malware,vulnerable,malicious,scanner example
 
-"lookup malware,vulnerable,malicious,scanner from https://raw.githubusercontent.com/blackopsinc/threats/main/threat on ip = ip_address"
+"lookup malware,vulnerable,malicious,scanner from https://raw.githubusercontent.com/blackopsinc/threats/master/threats on ip = ip_address"
 
 malware = Known malware delivery sites via VirusTotal
 

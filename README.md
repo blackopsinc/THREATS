@@ -1,6 +1,6 @@
 # threats
 
-Threat Intel Feed
+Threathunting Intel Feed from Honeynet
 
 Use for sumologic lookup table for malware,vulnerable,malicious,scanner example
 

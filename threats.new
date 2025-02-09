@@ -1,1 +1,565 @@
-2025-02-08 13:32:57.704939 | DENIED | 135.148.57.184 | 10809 | US, United States | reed.probe.onyphe.net | Port Scanner | Malware | Blacklisted | (0) None
+2025-02-08 13:33:45.839928 | DENIED | 23.132.185.145 | 80 | IP Address not found | Unknown Address | Port Scanner | Blacklisted | (0) None
+2025-02-08 13:33:50.930703 | DENIED | 208.67.220.220 | 58503 | US, United States | dns.opendns.com | (0) None
+2025-02-08 13:34:17.828098 | DENIED | 79.124.62.122 | 61113 | BG, Bulgaria | hosting-by.4cloud.mobi | Port Scanner | Exploited Host | Malware | Vulnerable | (0) None
+2025-02-08 13:34:36.615326 | DENIED | 15.235.180.159 | 46224 | US, United States | ns5017390.ip-15-235-180.net | Port Scanner | (0) None
+2025-02-08 13:35:33.733123 | DENIED | 39.106.21.137 | 37215 | CN, China | Unknown Address | Hacking | Malware | (0) None
+2025-02-08 13:35:52.264912 | DENIED | 185.29.166.29 | 39550 | AT, Austria | Unknown Address | Port Scanner | (0) None
+2025-02-08 13:36:12.248744 | DENIED | 194.180.48.109 | 9597 | DE, Germany | Unknown Address | Port Scanner | (0) None
+2025-02-08 13:36:31.507179 | DENIED | 194.180.48.103 | 7998 | DE, Germany | Unknown Address | Port Scanner | (0) None
+2025-02-08 13:36:50.787762 | DENIED | 52.228.155.172 | 8443 | US, United States | azpdcsc45.stretchoid.com | Port Scanner | Malware | (0) None
+2025-02-08 13:38:06.153974 | DENIED | 167.94.145.94 | 25004 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 13:38:25.592954 | DENIED | 66.85.44.34 | 8280 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 13:38:44.619404 | DENIED | 51.91.174.248 | 6771 | FR, France | rafael.probe.onyphe.net | Port Scanner | Malware | (0) None
+2025-02-08 13:39:22.817922 | DENIED | 217.160.89.196 | 8080 | DE, Germany | ip217-160-89-196.pbiaas.com | BruteForce | SSH | Malware | (0) None
+2025-02-08 13:40:00.456665 | DENIED | 172.169.2.80 | 4911 | US, United States | azpdcsb36.stretchoid.com | BruteForce | Malware | (0) None
+2025-02-08 13:40:38.068675 | DENIED | 185.242.226.31 | 8888 | GB, United Kingdom | security.criminalip.com | Port Scanner | Malware | (0) None
+2025-02-08 13:40:57.168391 | DENIED | 79.124.62.126 | 6381 | BG, Bulgaria | hosting-by.4cloud.mobi | DDoS Attack | Malware | (0) None
+2025-02-08 13:41:16.191148 | DENIED | 194.180.48.115 | 12230 | DE, Germany | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 13:41:54.517762 | DENIED | 194.180.48.113 | 11977 | DE, Germany | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 13:42:13.227813 | DENIED | 57.152.77.234 | 4200 | BE, Belgium | azpdegc39.stretchoid.com | Port Scanner | Malware | (0) None
+2025-02-08 13:42:32.162712 | DENIED | 147.185.133.97 | 14875 | US, United States | Unknown Address | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 13:42:50.875788 | DENIED | 171.120.25.39 | 5601 | CN, China | Unknown Address | (0) None
+2025-02-08 13:43:09.697322 | DENIED | 80.82.70.133 | 5000 | SC, Seychelles | rnd.group-ib.com | Port Scanner | Malware | (0) None
+2025-02-08 13:43:47.388468 | DENIED | 204.76.203.71 | 12481 | US, United States | hosted-by.pfcloud.io | Port Scanner | Malware | (0) None
+2025-02-08 13:44:05.986447 | DENIED | 47.250.81.209 | 8731 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 13:44:24.925729 | DENIED | 174.138.61.44 | 4444 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 13:44:43.403783 | DENIED | 41.79.50.7 | 37215 | GQ, Equatorial Guinea | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 13:45:02.244486 | DENIED | 198.235.24.103 | 51005 | CA, Canada | Unknown Address | Hacking | Malware | (0) None
+2025-02-08 13:45:20.788127 | DENIED | 194.180.48.107 | 8313 | DE, Germany | Unknown Address | Port Scanner | (0) None
+2025-02-08 13:45:39.205287 | DENIED | 193.46.255.129 | 5060 | AT, Austria | hostingmailto033.statics.servermail.org | Port Scanner | (0) None
+2025-02-08 13:45:57.712459 | DENIED | 117.252.32.66 | 23 | IN, India | Unknown Address | Port Scanner | Hacking | (0) None
+2025-02-08 13:46:16.077943 | DENIED | 185.224.0.127 | 54380 | TR, Turkey | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 13:46:34.612473 | DENIED | 5.10.250.241 | 3388 | AZ, Azerbaijan | Unknown Address | Port Scanner | Exploited Host | (0) None
+2025-02-08 13:46:53.233828 | DENIED | 204.76.203.70 | 3518 | US, United States | hosted-by.pfcloud.io | Port Scanner | Malware | (0) None
+2025-02-08 13:47:11.745681 | DENIED | 194.180.48.111 | 10062 | DE, Germany | Unknown Address | Port Scanner | (0) None
+2025-02-08 13:47:30.306111 | DENIED | 35.203.211.27 | 22122 | US, United States | 27.211.203.35.bc.googleusercontent.com | Hacking | Malware | (0) None
+2025-02-08 13:47:48.923092 | DENIED | 185.36.205.138 | 64016 | ES, Spain | Unknown Address | Port Scanner | (0) None
+2025-02-08 13:48:08.349465 | DENIED | 103.102.230.4 | 8728 | AU, Australia | Unknown Address | DDoS Attack | Malware | (0) None
+2025-02-08 13:48:28.888680 | DENIED | 147.185.132.204 | 943 | US, United States | Unknown Address | Hacking | Malware | (0) None
+2025-02-08 13:48:49.337612 | DENIED | 152.32.183.231 | 280 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 13:49:07.628968 | DENIED | 114.34.195.1 | 23 | TW, Taiwan | 114-34-195-1.hinet-ip.hinet.net | BruteForce | Malware | (0) None
+2025-02-08 13:49:26.206151 | DENIED | 106.75.153.252 | 48899 | CN, China | g-site.live | Port Scanner | Hacking | Exploited Host | Vulnerable | (0) None
+2025-02-08 13:49:45.194271 | DENIED | 35.203.210.200 | 9306 | US, United States | 200.210.203.35.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 13:50:04.057580 | DENIED | 103.102.230.3 | 8728 | AU, Australia | Unknown Address | Hacking | Malware | (0) None
+2025-02-08 13:50:22.499651 | DENIED | 162.216.150.152 | 47675 | US, United States | 152.150.216.162.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 13:50:40.855280 | DENIED | 198.235.24.41 | 83 | CA, Canada | Unknown Address | Hacking | Malware | (0) None
+2025-02-08 13:51:00.874225 | DENIED | 103.102.230.5 | 8728 | AU, Australia | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 13:52:35.909674 | DENIED | 167.94.138.157 | 1801 | US, United States | scanner-14.ch1.censys-scanner.com | Port Scanner | Malware | (0) None
+2025-02-08 13:52:54.483900 | DENIED | 79.124.62.134 | 50419 | BG, Bulgaria | hosting-by.4cloud.mobi | Port Scanner | Malware | Vulnerable | (0) None
+2025-02-08 13:53:13.454294 | DENIED | 51.195.32.134 | 13471 | FR, France | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 13:53:52.393099 | DENIED | 5.137.255.189 | 445 | RU, Russian Federation | Unknown Address | (0) None
+2025-02-08 13:54:29.396415 | DENIED | 147.185.132.37 | 4332 | US, United States | Unknown Address | Hacking | Malware | (0) None
+2025-02-08 13:54:47.568423 | DENIED | 37.10.114.9 | 443 | GB, United Kingdom | security-research.probewankenobi.com | Port Scanner | Bad WebBot | Web App Attack | Malware | (0) None
+2025-02-08 13:55:06.145025 | DENIED | 45.147.250.222 | 6443 | IP Address not found | Unknown Address | DDoS Attack | Malware | (0) None
+2025-02-08 13:55:24.818174 | DENIED | 109.236.61.84 | 888 | IP Address not found | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 13:56:38.253125 | DENIED | 59.11.199.186 | 23 | KR, Korea, Republic of | Unknown Address | Hacking | Malware | (0) None
+2025-02-08 13:56:56.928765 | DENIED | 40.85.152.251 | 1028 | US, United States | azpdwgb80.stretchoid.com | Port Scanner | Malware | (0) None
+2025-02-08 13:57:15.481716 | DENIED | 185.196.220.253 | 9010 | NL, Netherlands | Unknown Address | Port Scanner | Malware | Vulnerable | (0) None
+2025-02-08 13:58:11.879587 | DENIED | 103.164.241.241 | 23 | IP Address not found | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 13:58:49.092301 | DENIED | 205.210.31.101 | 9983 | CA, Canada | Unknown Address | Hacking | Malware | (0) None
+2025-02-08 13:59:07.695845 | DENIED | 185.12.59.118 | 80 | NO, Norway | Unknown Address | Port Scanner | BruteForce | Bad WebBot | Web App Attack | Malware | (0) None
+2025-02-08 14:00:43.584847 | DENIED | 103.167.90.113 | 3342 | IP Address not found | Unknown Address | DDoS Attack | Malware | Vulnerable | (0) None
+2025-02-08 14:01:02.484005 | DENIED | 193.163.125.79 | 4465 | DK, Denmark | valued.census.internet-measurement.com | Port Scanner | Malware | (0) None
+2025-02-08 14:01:20.936384 | DENIED | 207.90.244.12 | 2650 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:01:39.269255 | DENIED | 212.23.217.147 | 8082 | FR, France | Unknown Address | BruteForce | Vulnerable | (0) None
+2025-02-08 14:02:01.335470 | DENIED | 206.168.34.167 | 103 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:02:20.086852 | DENIED | 162.216.149.72 | 2094 | US, United States | 72.149.216.162.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 14:02:38.867668 | DENIED | 47.113.105.181 | 23 | CN, China | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:02:57.928060 | DENIED | 104.209.35.237 | 7473 | US, United States | azpdwsb66.stretchoid.com | Port Scanner | Malware | (0) None
+2025-02-08 14:03:16.229933 | DENIED | 81.21.4.16 | 786 | UA, Ukraine | ip16.ip-81-21-4.bahu.host | Port Scanner | (0) None
+2025-02-08 14:03:34.962713 | DENIED | 179.43.160.138 | 34567 | CH, Switzerland | hostedby.privatelayer.com | Port Scanner | Malware | (0) None
+2025-02-08 14:03:53.600751 | DENIED | 123.173.75.138 | 23 | CN, China | Unknown Address | BruteForce | (0) None
+2025-02-08 14:05:27.913316 | DENIED | 162.216.150.215 | 51067 | US, United States | 215.150.216.162.bc.googleusercontent.com | Port Scanner | (0) None
+2025-02-08 14:05:46.432074 | DENIED | 79.124.49.226 | 11151 | BG, Bulgaria | ip-49-226.4vendeta.com | Port Scanner | Malware | Vulnerable | (0) None
+2025-02-08 14:06:08.897917 | DENIED | 192.67.35.1 | 37629 | CA, Canada | edge1-fra-de.eu.hyehost.net | (0) None
+2025-02-08 14:06:27.877586 | DENIED | 162.216.149.26 | 7678 | US, United States | 26.149.216.162.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 14:06:46.462102 | DENIED | 51.105.72.86 | 53 | GB, United Kingdom | Unknown Address | (0) None
+2025-02-08 14:07:24.275616 | DENIED | 207.154.221.51 | 53 | DE, Germany | Unknown Address | (0) None
+2025-02-08 14:07:42.851582 | DENIED | 57.152.56.107 | 50070 | BE, Belgium | azpdes90.stretchoid.com | DDoS Attack | Malware | (0) None
+2025-02-08 14:08:01.896919 | DENIED | 85.31.47.22 | 5432 | IP Address not found | Unknown Address | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 14:08:20.029437 | DENIED | 109.236.61.85 | 34581 | IP Address not found | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:08:38.518378 | DENIED | 220.240.182.209 | 23 | AU, Australia | 220-240-182-209.tpgi.com.au | Port Scanner | Malware | (0) None
+2025-02-08 14:08:57.391742 | DENIED | 3.136.208.236 | 3443 | US, United States | scan.cypex.ai | Port Scanner | Malware | (0) None
+2025-02-08 14:09:16.324027 | DENIED | 162.19.200.74 | 25529 | US, United States | ip74.ip-162-19-200.eu | (0) None
+2025-02-08 14:09:54.575634 | DENIED | 147.185.133.81 | 60008 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:10:13.496004 | DENIED | 103.252.122.167 | 3389 | IP Address not found | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:10:33.237546 | DENIED | 167.94.146.36 | 11584 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:10:51.809046 | DENIED | 35.203.210.156 | 22527 | US, United States | 156.210.203.35.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 14:11:29.286895 | DENIED | 162.142.125.141 | 17169 | US, United States | scanner-01.ch1.censys-scanner.com | Port Scanner | Malware | (0) None
+2025-02-08 14:11:48.078908 | DENIED | 74.125.112.26 | 53 | FI, Finland | Unknown Address | (0) None
+2025-02-08 14:12:06.953329 | DENIED | 194.226.75.81 | 53 | RU, Russian Federation | res1-msk-lb.ix.ru | (0) None
+2025-02-08 14:12:43.846516 | DENIED | 35.203.210.218 | 45098 | US, United States | 218.210.203.35.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 14:13:03.166087 | DENIED | 162.216.149.27 | 18085 | US, United States | 27.149.216.162.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 14:13:21.954526 | DENIED | 195.230.103.246 | 144 | UA, Ukraine | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:13:40.683540 | DENIED | 45.142.193.162 | 1012 | IP Address not found | Unknown Address | Port Scanner | Malware | Vulnerable | (0) None
+2025-02-08 14:14:54.161966 | DENIED | 109.205.213.105 | 33888 | AZ, Azerbaijan | Unknown Address | Port Scanner | (0) None
+2025-02-08 14:15:12.715002 | DENIED | 117.84.162.164 | 8080 | CN, China | Unknown Address | BruteForce | Malware | (0) None
+2025-02-08 14:15:31.265058 | DENIED | 162.216.149.132 | 46660 | US, United States | 132.149.216.162.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 14:15:59.702867 | DENIED | 165.154.41.6 | 4687 | CA, Canada | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:16:18.104031 | DENIED | 47.121.133.117 | 37215 | CN, China | Unknown Address | Port Scanner | Malware | Vulnerable | (0) None
+2025-02-08 14:16:37.410716 | DENIED | 141.98.11.128 | 8728 | IP Address not found | srv-141-98-11-128.serveroffer.net | Port Scanner | Malware | (0) None
+2025-02-08 14:16:55.757045 | DENIED | 185.242.226.38 | 2307 | GB, United Kingdom | security.criminalip.com | Port Scanner | Malware | (0) None
+2025-02-08 14:17:14.803746 | DENIED | 162.142.125.93 | 4730 | US, United States | scanner-13.ch1.censys-scanner.com | Port Scanner | Malware | (0) None
+2025-02-08 14:17:33.428998 | DENIED | 45.142.193.49 | 4491 | IP Address not found | Unknown Address | Port Scanner | Malware | Vulnerable | (0) None
+2025-02-08 14:17:51.582619 | DENIED | 35.203.211.93 | 9503 | US, United States | 93.211.203.35.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 14:18:10.571150 | DENIED | 104.209.35.181 | 10024 | US, United States | azpdwsb65.stretchoid.com | Port Scanner | Hacking | Exploited Host | Malware | (0) None
+2025-02-08 14:18:47.296130 | DENIED | 89.248.168.37 | 34137 | NL, Netherlands | no-reverse-dns-configured.com | Port Scanner | Malware | (0) None
+2025-02-08 14:19:24.211651 | DENIED | 45.93.20.239 | 2200 | IP Address not found | Unknown Address | Hacking | (0) None
+2025-02-08 14:19:42.132096 | DENIED | 172.206.143.253 | 631 | GB, United Kingdom | azpdssb31.stretchoid.com | BruteForce | Malware | (0) None
+2025-02-08 14:20:00.507694 | DENIED | 167.94.146.41 | 21983 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:20:21.293890 | DENIED | 121.205.221.67 | 23 | CN, China | 67.221.205.121.broad.pt.fj.dynamic.163data.com.cn | Port Scanner | Hacking | (0) None
+2025-02-08 14:20:39.716662 | DENIED | 128.0.118.31 | 443 | DE, Germany | CyberSolutions.net | Port Scanner | Web App Attack | (0) None
+2025-02-08 14:20:58.305931 | DENIED | 185.242.226.47 | 3137 | GB, United Kingdom | security.criminalip.com | Port Scanner | Malware | (0) None
+2025-02-08 14:21:17.133743 | DENIED | 95.217.132.79 | 53 | DE, Germany | static.79.132.217.95.clients.your-server.de |  Malware | (0) None
+2025-02-08 14:21:35.777683 | DENIED | 79.124.49.130 | 11136 | BG, Bulgaria | ip-49-130.web1.bg | Port Scanner | Malware | Vulnerable | (0) None
+2025-02-08 14:21:53.933951 | DENIED | 1.70.98.136 | 23 | CN, China | Unknown Address | BruteForce | Malware | (0) None
+2025-02-08 14:22:12.856914 | DENIED | 167.94.146.40 | 22526 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:22:31.799380 | DENIED | 80.82.77.202 | 8080 | NL, Netherlands | rnd.group-ib.com | Port Scanner | Bad WebBot | Web App Attack | Malware | (0) None
+2025-02-08 14:22:50.711263 | DENIED | 162.216.149.221 | 32902 | US, United States | 221.149.216.162.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 14:23:09.242490 | DENIED | 47.239.25.92 | 22 | US, United States | Unknown Address | Port Scanner | Hacking | SSH | Malware | (0) None
+2025-02-08 14:23:27.562250 | DENIED | 106.75.147.168 | 9091 | CN, China | gk5iq0jt.cn | DDoS Attack | Malware | (0) None
+2025-02-08 14:23:46.662984 | DENIED | 35.203.210.44 | 2500 | US, United States | 44.210.203.35.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 14:24:04.847234 | DENIED | 35.203.210.216 | 9088 | US, United States | 216.210.203.35.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 14:24:23.222341 | DENIED | 35.203.210.111 | 15066 | US, United States | 111.210.203.35.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 14:24:42.525568 | DENIED | 36.224.130.92 | 123 | TW, Taiwan | 36-224-130-92.dynamic-ip.hinet.net | (0) None
+2025-02-08 14:25:01.798819 | DENIED | 147.185.132.150 | 5910 | US, United States | Unknown Address | Hacking | Malware | (0) None
+2025-02-08 14:25:20.035309 | DENIED | 165.154.51.221 | 19132 | CA, Canada | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:25:38.552992 | DENIED | 45.142.193.153 | 8000 | IP Address not found | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:25:58.071920 | DENIED | 49.204.18.104 | 445 | IN, India | broadband.actcorp.in | (0) None
+2025-02-08 14:26:16.804245 | DENIED | 199.45.154.182 | 4839 | US, United States | scanner-001.hk2.censys-scanner.com | Port Scanner | Malware | (0) None
+2025-02-08 14:26:35.437763 | DENIED | 154.212.141.187 | 11082 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:26:53.977053 | DENIED | 114.188.90.120 | 8080 | JP, Japan | i114-188-90-120.s41.a047.ap.plala.or.jp | Port Scanner | Malware | (0) None
+2025-02-08 14:27:12.210127 | DENIED | 193.68.89.10 | 80 | LV, Latvia | Unknown Address | Port Scanner | Bad WebBot | Web App Attack | Malware | (0) None
+2025-02-08 14:27:31.015186 | DENIED | 185.242.226.50 | 5997 | GB, United Kingdom | security.criminalip.com | Port Scanner | Malware | (0) None
+2025-02-08 14:27:49.516863 | DENIED | 147.185.133.249 | 30878 | US, United States | Unknown Address | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 14:28:08.561559 | DENIED | 57.144.127.33 | 11194 | BE, Belgium | whatsapp-chatd-edge-shv-02-ist1.facebook.com | Port Scanner | (0) None
+2025-02-08 14:28:26.820100 | DENIED | 167.94.145.28 | 8000 | US, United States | Unknown Address | Port Scanner | (0) None
+2025-02-08 14:28:45.234504 | DENIED | 193.163.125.94 | 10554 | DK, Denmark | effective.census.internet-measurement.com | Hacking | Malware | (0) None
+2025-02-08 14:29:03.688929 | DENIED | 52.189.74.155 | 80 | US, United States | azpdcg19.stretchoid.com | Port Scanner | Malware | (0) None
+2025-02-08 14:29:22.341583 | DENIED | 147.185.132.195 | 20122 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:29:40.926906 | DENIED | 45.145.43.206 | 41568 | IP Address not found | Unknown Address | (0) None
+2025-02-08 14:30:00.188765 | DENIED | 193.41.206.156 | 8728 | RO, Romania | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:30:19.430964 | DENIED | 162.142.125.130 | 24681 | US, United States | scanner-01.ch1.censys-scanner.com | Port Scanner | Malware | (0) None
+2025-02-08 14:30:37.869279 | DENIED | 162.142.125.84 | 5095 | US, United States | scanner-13.ch1.censys-scanner.com | Port Scanner | Malware | (0) None
+2025-02-08 14:31:14.765890 | DENIED | 167.94.138.154 | 12000 | US, United States | scanner-14.ch1.censys-scanner.com | Port Scanner | Malware | (0) None
+2025-02-08 14:31:33.586501 | DENIED | 149.202.132.201 | 653 | FR, France | pugh.probe.onyphe.net | Port Scanner | Malware | (0) None
+2025-02-08 14:31:52.569640 | DENIED | 103.102.230.2 | 8728 | AU, Australia | Unknown Address | Hacking | Malware | (0) None
+2025-02-08 14:32:11.014549 | DENIED | 45.33.42.25 | 8084 | US, United States | 45-33-42-25.ip.linodeusercontent.com | Port Scanner | Web App Attack | Malware | (0) None
+2025-02-08 14:32:29.341867 | DENIED | 39.103.191.118 | 2375 | CN, China | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:33:07.617958 | DENIED | 178.238.78.87 | 445 | KZ, Kazakhstan | mail.support.1collekt.kz | Hacking | Malware | Vulnerable | (0) None
+2025-02-08 14:34:03.322864 | DENIED | 31.56.79.1 | 80 | IR, Iran, Islamic Republic of | Unknown Address | Port Scanner | Web App Attack | (0) None
+2025-02-08 14:34:21.960283 | DENIED | 162.216.149.164 | 9296 | US, United States | 164.149.216.162.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 14:34:41.040560 | DENIED | 162.216.150.27 | 8187 | US, United States | 27.150.216.162.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 14:34:59.271233 | DENIED | 89.248.165.234 | 3891 | NL, Netherlands | recyber.net | Port Scanner | Malware | Vulnerable | (0) None
+2025-02-08 14:35:18.054301 | DENIED | 162.216.149.243 | 30015 | US, United States | 243.149.216.162.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 14:35:36.559557 | DENIED | 5.196.113.9 | 2380 | FR, France | knapp.probe.onyphe.net | Port Scanner | Malware | (0) None
+2025-02-08 14:35:54.876273 | DENIED | 115.231.78.14 | 5006 | CN, China | Unknown Address | Port Scanner | Malware | Vulnerable | (0) None
+2025-02-08 14:36:13.599325 | DENIED | 205.210.31.239 | 3975 | CA, Canada | Unknown Address | Port Scanner | Web App Attack | Malware | (0) None
+2025-02-08 14:36:32.137691 | DENIED | 205.210.31.51 | 5289 | CA, Canada | Unknown Address | Hacking | Malware | (0) None
+2025-02-08 14:36:50.783275 | DENIED | 37.60.225.99 | 8080 | US, United States | vmi1625901.contaboserver.net | Port Scanner | Malware | (0) None
+2025-02-08 14:37:09.307642 | DENIED | 193.163.125.91 | 3280 | DK, Denmark | adored.census.internet-measurement.com | Port Scanner | (0) None
+2025-02-08 14:37:27.739448 | DENIED | 199.195.252.200 | 123 | US, United States | iblis.vile.sx | Port Scanner | Spoofing | Malware | (0) None
+2025-02-08 14:37:46.223915 | DENIED | 109.236.61.250 | 22222 | IP Address not found | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:38:07.570828 | DENIED | 206.168.34.140 | 6179 | US, United States | Unknown Address | Port Scanner | Exploited Host | Malware | (0) None
+2025-02-08 14:38:26.152016 | DENIED | 37.27.104.178 | 26217 | IR, Iran, Islamic Republic of | static.178.104.27.37.clients.your-server.de | (0) None
+2025-02-08 14:38:44.778782 | DENIED | 162.142.125.236 | 64284 | US, United States | scanner-10.ch1.censys-scanner.com | Port Scanner | (0) None
+2025-02-08 14:39:02.966007 | DENIED | 87.120.115.212 | 3001 | BG, Bulgaria | Unknown Address | Port Scanner | Exploited Host | Malware | (0) None
+2025-02-08 14:40:02.115759 | DENIED | 81.24.135.201 | 23 | RU, Russian Federation | Unknown Address | BruteForce | Malware | (0) None
+2025-02-08 14:40:20.491326 | DENIED | 113.30.151.61 | 1025 | IN, India | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:40:49.869170 | DENIED | 152.32.141.86 | 5437 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:41:08.606341 | DENIED | 14.102.189.1 | 23 | IN, India | axntech-dynamic-1.189.102.14.axntechnologies.in | Port Scanner | Hacking | Exploited Host | (0) None
+2025-02-08 14:41:46.081012 | DENIED | 8.211.46.204 | 100 | US, United States | Unknown Address | Hacking | Malware | (0) None
+2025-02-08 14:42:04.460074 | DENIED | 147.185.133.44 | 30019 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:42:22.494153 | DENIED | 117.63.36.118 | 23 | CN, China | Unknown Address | Port Scanner | Hacking | (0) None
+2025-02-08 14:42:41.429372 | DENIED | 173.255.223.143 | 8084 | US, United States | 173-255-223-143.ip.linodeusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 14:43:00.099334 | DENIED | 185.224.128.17 | 3125 | NL, Netherlands | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:43:56.944693 | DENIED | 13.91.217.1 | 4848 | US, United States | azpdwgb30.stretchoid.com | Port Scanner | Malware | (0) None
+2025-02-08 14:44:15.812930 | DENIED | 109.205.213.198 | 82 | AZ, Azerbaijan | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:44:34.309005 | DENIED | 137.184.158.149 | 8899 | US, United States | Unknown Address | Port Scanner | (0) None
+2025-02-08 14:44:52.576796 | DENIED | 103.102.230.6 | 8728 | AU, Australia | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:45:10.620635 | DENIED | 185.239.238.110 | 41860 | DE, Germany | Unknown Address | (0) None
+2025-02-08 14:45:29.458281 | DENIED | 3.143.152.247 | 2379 | US, United States | scan.cypex.ai | Port Scanner | (0) None
+2025-02-08 14:46:25.256921 | DENIED | 47.104.158.7 | 37215 | CN, China | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:47:20.582460 | DENIED | 213.32.32.89 | 4312 | FR, France | izabella.probe.onyphe.net | Port Scanner | Malware | (0) None
+2025-02-08 14:47:39.021865 | DENIED | 147.185.132.53 | 9043 | US, United States | Unknown Address | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 14:47:57.241191 | DENIED | 198.235.24.121 | 8899 | CA, Canada | Unknown Address | SSH | Malware | (0) None
+2025-02-08 14:48:16.102867 | DENIED | 147.185.132.255 | 60000 | US, United States | Unknown Address | Hacking | Malware | (0) None
+2025-02-08 14:48:53.593614 | DENIED | 147.185.133.92 | 47827 | US, United States | Unknown Address | Hacking | Malware | (0) None
+2025-02-08 14:49:11.974346 | DENIED | 167.94.145.31 | 832 | US, United States | Unknown Address | Port Scanner | IoT Targeted | Malware | (0) None
+2025-02-08 14:49:30.598074 | DENIED | 91.148.190.150 | 3186 | BG, Bulgaria | ip-190-150.4vendeta.com | Port Scanner | Malware | Vulnerable | (0) None
+2025-02-08 14:49:49.327733 | DENIED | 175.44.4.77 | 23 | CN, China | Unknown Address | SSH | Malware | (0) None
+2025-02-08 14:50:08.676753 | DENIED | 167.94.138.151 | 2404 | US, United States | scanner-14.ch1.censys-scanner.com | Port Scanner | Malware | (0) None
+2025-02-08 14:50:27.607804 | DENIED | 162.216.150.243 | 46909 | US, United States | 243.150.216.162.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 14:50:45.772618 | DENIED | 193.84.88.99 | 443 | IP Address not found | Unknown Address | Port Scanner | Bad WebBot | Web App Attack | (0) None
+2025-02-08 14:51:41.770282 | DENIED | 61.3.55.180 | 23 | IN, India | Unknown Address | Port Scanner | Hacking | Malware | (0) None
+2025-02-08 14:52:00.445086 | DENIED | 167.94.138.147 | 44817 | US, United States | scanner-14.ch1.censys-scanner.com | Hacking | Malware | (0) None
+2025-02-08 14:52:18.624665 | DENIED | 35.203.210.64 | 9602 | US, United States | 64.210.203.35.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 14:52:56.044181 | DENIED | 45.81.234.9 | 8775 | IP Address not found | 45.81.234.9.mc-host24.de | Port Scanner | Hacking | (0) None
+2025-02-08 14:53:14.531490 | DENIED | 80.82.77.144 | 9600 | NL, Netherlands | Unknown Address | Port Scanner | Malware | Vulnerable | (0) None
+2025-02-08 14:53:34.236056 | DENIED | 48.217.212.104 | 194 | US, United States | azpdesb80.stretchoid.com | Port Scanner | Malware | (0) None
+2025-02-08 14:53:53.346478 | DENIED | 128.199.188.64 | 18943 | SG, Singapore | Unknown Address | BruteForce | SSH | Malware | (0) None
+2025-02-08 14:54:31.409832 | DENIED | 147.185.132.94 | 3389 | US, United States | Unknown Address | Port Scanner | SSH | Malware | (0) None
+2025-02-08 14:55:30.674377 | DENIED | 35.203.211.249 | 9704 | US, United States | 249.211.203.35.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 14:55:49.627283 | DENIED | 104.209.33.87 | 2181 | US, United States | azpdwsb53.stretchoid.com | Port Scanner | Malware | (0) None
+2025-02-08 14:56:08.321871 | DENIED | 81.245.223.100 | 23 | BE, Belgium | 100.223-245-81.adsl-dyn.isp.belgacom.be | Port Scanner | Malware | (0) None
+2025-02-08 14:56:36.770406 | DENIED | 117.209.83.154 | 23 | IN, India | Unknown Address | (0) None
+2025-02-08 14:56:55.848467 | DENIED | 172.169.111.132 | 5351 | US, United States | azpdcgb15.stretchoid.com | Port Scanner | Malware | (0) None
+2025-02-08 14:57:14.460370 | DENIED | 195.37.190.67 | 5985 | DE, Germany | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 14:57:33.893060 | DENIED | 147.185.133.179 | 47694 | US, United States | Unknown Address | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 14:57:52.359938 | DENIED | 217.145.72.209 | 53 | GB, United Kingdom | Unknown Address | (0) None
+2025-02-08 14:58:11.243404 | DENIED | 35.203.210.219 | 17575 | US, United States | 219.210.203.35.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 14:58:31.353645 | DENIED | 167.94.138.98 | 33039 | US, United States | scanner-02.ch1.censys-scanner.com | Hacking | Malware | (0) None
+2025-02-08 14:58:50.826393 | DENIED | 162.216.150.160 | 12542 | US, United States | 160.150.216.162.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 14:59:10.067724 | DENIED | 162.216.150.224 | 33701 | US, United States | 224.150.216.162.bc.googleusercontent.com | Port Scanner | BruteForce | (0) None
+2025-02-08 14:59:29.232305 | DENIED | 198.235.24.105 | 40000 | CA, Canada | Unknown Address | SSH | Malware | (0) None
+2025-02-08 15:00:29.379560 | DENIED | 92.118.39.81 | 25986 | GR, Greece | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:01:08.855111 | DENIED | 154.212.141.253 | 27017 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:01:27.593532 | DENIED | 35.203.211.138 | 45634 | US, United States | 138.211.203.35.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 15:01:46.560111 | DENIED | 185.208.156.160 | 443 | BG, Bulgaria | Unknown Address | Port Scanner | Bad WebBot | Web App Attack | Malware | (0) None
+2025-02-08 15:02:24.441554 | DENIED | 45.147.250.233 | 6443 | IP Address not found | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:02:42.965483 | DENIED | 185.125.190.56 | 44164 | GB, United Kingdom | prod-ntp-3.ntp4.ps5.canonical.com | Port Scanner | (0) None
+2025-02-08 15:03:39.890361 | DENIED | 35.203.211.80 | 4389 | US, United States | 80.211.203.35.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 15:04:08.682342 | DENIED | 165.154.10.187 | 2806 | CA, Canada | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:04:46.496036 | DENIED | 162.142.125.253 | 19258 | US, United States | scanner-23.ch1.censys-scanner.com | Hacking | Malware | (0) None
+2025-02-08 15:05:05.229149 | DENIED | 198.235.24.97 | 4433 | CA, Canada | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:05:23.632598 | DENIED | 66.240.236.109 | 2869 | US, United States | pdcscan2.scanning.cybcube.com | Port Scanner | Malware | (0) None
+2025-02-08 15:06:00.997972 | DENIED | 35.203.211.15 | 46604 | US, United States | 15.211.203.35.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 15:06:19.657209 | DENIED | 35.203.210.25 | 49018 | US, United States | 25.210.203.35.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 15:06:38.186686 | DENIED | 8.221.138.135 | 12134 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:06:56.330285 | DENIED | 54.155.215.20 | 53 | IE, Ireland | ec2-54-155-215-20.eu-west-1.compute.amazonaws.com | (0) None
+2025-02-08 15:07:14.773220 | DENIED | 35.203.211.217 | 58392 | US, United States | 217.211.203.35.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 15:07:33.250169 | DENIED | 193.163.125.100 | 21296 | DK, Denmark | respected.census.internet-measurement.com | Port Scanner | Malware | (0) None
+2025-02-08 15:07:51.563689 | DENIED | 156.229.232.231 | 65521 | ZA, South Africa | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:08:30.043505 | DENIED | 205.210.31.222 | 69 | CA, Canada | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:08:48.082652 | DENIED | 92.63.197.33 | 5000 | RU, Russian Federation | Unknown Address | Port Scanner | Malware | Vulnerable | (0) None
+2025-02-08 15:09:06.583350 | DENIED | 162.216.149.108 | 9535 | US, United States | 108.149.216.162.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 15:09:24.806232 | DENIED | 198.235.24.47 | 1723 | CA, Canada | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:09:43.005603 | DENIED | 194.48.251.234 | 5432 | IP Address not found | Unknown Address | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 15:11:17.250969 | DENIED | 167.94.138.159 | 17777 | US, United States | scanner-14.ch1.censys-scanner.com | Port Scanner | (0) None
+2025-02-08 15:12:33.053902 | DENIED | 206.168.34.154 | 19842 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:12:52.221905 | DENIED | 83.222.191.82 | 3389 | BG, Bulgaria | Unknown Address | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 15:15:24.954774 | DENIED | 147.185.132.214 | 45386 | US, United States | Unknown Address | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 15:15:43.513305 | DENIED | 205.210.31.167 | 53300 | CA, Canada | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:16:02.580861 | DENIED | 80.80.46.241 | 62010 | BA, Bosnia and Herzegovina | cable-80-80-32-241.dynamic.telemach.ba | (0) None
+2025-02-08 15:16:40.906366 | DENIED | 34.245.82.21 | 53 | IE, Ireland | ec2-34-245-82-21.eu-west-1.compute.amazonaws.com | (0) None
+2025-02-08 15:17:37.945607 | DENIED | 116.107.115.164 | 23 | VN, Vietnam | dynamic-adsl.viettel.vn | BruteForce | Malware | (0) None
+2025-02-08 15:18:14.987538 | DENIED | 35.203.210.236 | 9372 | US, United States | 236.210.203.35.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 15:18:33.431365 | DENIED | 118.193.64.15 | 2040 | CN, China | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:18:52.204106 | DENIED | 45.142.193.149 | 22222 | IP Address not found | Unknown Address | Port Scanner | BruteForce | SSH | Malware | (0) None
+2025-02-08 15:19:11.189474 | DENIED | 207.90.244.16 | 18051 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:19:48.784428 | DENIED | 167.94.146.34 | 38462 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:20:07.520838 | DENIED | 199.45.154.187 | 161 | US, United States | scanner-001.hk2.censys-scanner.com | Port Scanner | Malware | (0) None
+2025-02-08 15:20:26.362318 | DENIED | 199.45.154.179 | 11103 | US, United States | scanner-001.hk2.censys-scanner.com | Port Scanner | Malware | (0) None
+2025-02-08 15:20:44.634061 | DENIED | 172.169.111.185 | 8009 | US, United States | azpdcgb22.stretchoid.com | BruteForce | Malware | (0) None
+2025-02-08 15:21:03.347692 | DENIED | 162.216.149.185 | 9720 | US, United States | 185.149.216.162.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 15:21:22.194046 | DENIED | 194.50.16.198 | 8728 | IP Address not found | Unknown Address | DDoS Attack | Malware | (0) None
+2025-02-08 15:21:59.020177 | DENIED | 193.68.89.31 | 123 | LV, Latvia | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:22:17.465515 | DENIED | 185.11.61.93 | 62222 | RU, Russian Federation | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:22:35.907391 | DENIED | 4.151.38.0 | 8098 | US, United States | azpdssc16.stretchoid.com | Port Scanner | Malware | (0) None
+2025-02-08 15:22:54.496334 | DENIED | 176.113.115.15 | 9022 | RU, Russian Federation | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:23:14.939718 | DENIED | 191.96.94.114 | 37363 | US, United States | 94.114-de.freakhosting.com | (0) None
+2025-02-08 15:23:33.986381 | DENIED | 147.185.132.115 | 1443 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:23:52.815567 | DENIED | 205.210.31.194 | 38080 | CA, Canada | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:24:12.185102 | DENIED | 162.216.150.106 | 9274 | US, United States | 106.150.216.162.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 15:24:31.006976 | DENIED | 141.101.104.158 | 53 | NL, Netherlands | Unknown Address | (0) None
+2025-02-08 15:24:50.230619 | DENIED | 141.101.104.159 | 53 | NL, Netherlands | Unknown Address | (0) None
+2025-02-08 15:25:08.989629 | DENIED | 80.94.95.157 | 443 | DE, Germany | Unknown Address | Hacking | Web App Attack | Malware | Vulnerable | (0) None
+2025-02-08 15:25:27.424803 | DENIED | 172.68.49.158 | 53 | AT, Austria | Unknown Address | (0) None
+2025-02-08 15:25:47.448852 | DENIED | 172.68.49.93 | 53 | AT, Austria | Unknown Address | (0) None
+2025-02-08 15:26:06.195460 | DENIED | 172.169.110.69 | 443 | US, United States | azpdcgb75.stretchoid.com | BruteForce | Malware | (0) None
+2025-02-08 15:26:26.340613 | DENIED | 36.158.177.49 | 22 | CN, China | Unknown Address | Port Scanner | BruteForce | SSH | Malware | (0) None
+2025-02-08 15:27:43.438569 | DENIED | 103.219.59.102 | 53 | HK, Hong Kong | ns64.deteque.com | (0) None
+2025-02-08 15:28:02.304801 | DENIED | 205.210.31.233 | 8081 | CA, Canada | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:28:21.052372 | DENIED | 205.210.31.65 | 2080 | CA, Canada | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:28:39.586008 | DENIED | 198.235.24.221 | 888 | CA, Canada | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:28:58.167907 | DENIED | 193.163.125.93 | 22207 | DK, Denmark | reverent.census.internet-measurement.com | Port Scanner | Malware | (0) None
+2025-02-08 15:29:54.049902 | DENIED | 145.239.255.60 | 4000 | FR, France | ns3102069.ip-145-239-255.eu | BruteForce | Malware | (0) None
+2025-02-08 15:30:12.989873 | DENIED | 94.232.47.83 | 4463 | RU, Russian Federation | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:30:33.285210 | DENIED | 161.35.205.245 | 1027 | US, United States | Unknown Address | BruteForce | Malware | (0) None
+2025-02-08 15:30:53.810319 | DENIED | 147.185.133.163 | 12022 | US, United States | Unknown Address | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 15:31:13.013684 | DENIED | 59.93.75.62 | 23 | IN, India | Unknown Address | Port Scanner | (0) None
+2025-02-08 15:31:31.680705 | DENIED | 185.103.101.29 | 30301 | RU, Russian Federation | Unknown Address | BruteForce | Malware | (0) None
+2025-02-08 15:32:10.053685 | DENIED | 193.163.125.101 | 3490 | DK, Denmark | swift.census.internet-measurement.com | Port Scanner | Malware | (0) None
+2025-02-08 15:32:28.471224 | DENIED | 35.203.211.222 | 9577 | US, United States | 222.211.203.35.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 15:32:47.465208 | DENIED | 118.193.64.235 | 4684 | CN, China | Unknown Address | BruteForce | Bad WebBot | Web App Attack | Malware | (0) None
+2025-02-08 15:33:05.782116 | DENIED | 185.242.226.41 | 1250 | GB, United Kingdom | security.criminalip.com | Port Scanner | Malware | (0) None
+2025-02-08 15:33:42.659955 | DENIED | 193.163.125.76 | 3200 | DK, Denmark | effervescent.census.internet-measurement.com | Port Scanner | Malware | (0) None
+2025-02-08 15:34:19.534249 | DENIED | 47.250.142.129 | 1241 | US, United States | Unknown Address | Port Scanner | Exploited Host | Malware | (0) None
+2025-02-08 15:34:38.764271 | DENIED | 167.94.146.18 | 44819 | US, United States | Unknown Address | Port Scanner | (0) None
+2025-02-08 15:34:57.614965 | DENIED | 18.223.104.85 | 2984 | US, United States | scan.cypex.ai | Port Scanner | Hacking | (0) None
+2025-02-08 15:35:16.108647 | DENIED | 167.94.138.153 | 33389 | US, United States | scanner-14.ch1.censys-scanner.com | Port Scanner | Malware | (0) None
+2025-02-08 15:35:35.442175 | DENIED | 167.94.146.30 | 101 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:35:54.209610 | DENIED | 35.203.211.221 | 9776 | US, United States | 221.211.203.35.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 15:36:32.563675 | DENIED | 114.130.181.118 | 23 | BD, Bangladesh | Unknown Address | (0) None
+2025-02-08 15:36:53.759588 | DENIED | 206.168.34.137 | 6664 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:37:12.335512 | DENIED | 147.185.133.14 | 9905 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:37:31.179961 | DENIED | 92.118.39.84 | 36634 | GR, Greece | Unknown Address | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 15:38:09.887683 | DENIED | 89.188.76.74 | 33307 | DK, Denmark | vps1113.basicserver.io | Port Scanner | Malware | (0) None
+2025-02-08 15:38:33.930365 | DENIED | 70.32.83.222 | 52021 | US, United States | standard.integrastrategic.com | Port Scanner | Malware | (0) None
+2025-02-08 15:38:52.221733 | DENIED | 52.160.67.47 | 10000 | US, United States | azpdws38.stretchoid.com | Port Scanner | Malware | (0) None
+2025-02-08 15:39:29.640251 | DENIED | 172.245.40.172 | 6363 | US, United States | 172-245-40-172-host.colocrossing.com | Hacking | Malware | (0) None
+2025-02-08 15:39:48.214810 | DENIED | 45.33.40.18 | 646 | US, United States | 45-33-40-18.ip.linodeusercontent.com | Hacking | Malware | (0) None
+2025-02-08 15:40:06.661041 | DENIED | 162.216.149.55 | 2139 | US, United States | 55.149.216.162.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 15:40:25.323625 | DENIED | 35.203.210.114 | 40002 | US, United States | 114.210.203.35.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 15:40:43.934620 | DENIED | 47.89.225.11 | 15800 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:41:21.319583 | DENIED | 35.203.210.128 | 52113 | US, United States | 128.210.203.35.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 15:41:39.932865 | DENIED | 147.185.132.233 | 33457 | US, United States | Unknown Address | Hacking | Malware | (0) None
+2025-02-08 15:41:58.389639 | DENIED | 35.203.210.68 | 47342 | US, United States | 68.210.203.35.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 15:42:16.902649 | DENIED | 162.216.149.77 | 9606 | US, United States | 77.149.216.162.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 15:42:35.232186 | DENIED | 35.203.210.62 | 9459 | US, United States | 62.210.203.35.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 15:42:53.806238 | DENIED | 124.152.34.236 | 23 | CN, China | Unknown Address | Port Scanner | Hacking | Malware | (0) None
+2025-02-08 15:43:12.819584 | DENIED | 178.215.224.93 | 27017 | IP Address not found | Unknown Address | Hacking | BruteForce | Malware | (0) None
+2025-02-08 15:43:31.521853 | DENIED | 118.172.59.156 | 23 | TH, Thailand | node-brw.pool-118-172.dynamic.totinternet.net | Port Scanner | Hacking | (0) None
+2025-02-08 15:43:50.326665 | DENIED | 185.91.127.9 | 8081 | GB, United Kingdom | tube-hosting.com | Port Scanner | Malware | (0) None
+2025-02-08 15:44:08.726765 | DENIED | 162.216.150.21 | 9696 | US, United States | 21.150.216.162.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 15:44:27.063435 | DENIED | 162.142.125.248 | 27489 | US, United States | scanner-23.ch1.censys-scanner.com | Hacking | (0) None
+2025-02-08 15:45:05.217287 | DENIED | 185.81.239.0 | 443 | TR, Turkey | Unknown Address | Port Scanner | BruteForce | Bad WebBot | Web App Attack | (0) None
+2025-02-08 15:45:23.800549 | DENIED | 35.203.211.14 | 9645 | US, United States | 14.211.203.35.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 15:45:42.886936 | DENIED | 45.147.250.208 | 6443 | IP Address not found | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:46:02.080294 | DENIED | 207.90.244.18 | 8472 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:46:20.834608 | DENIED | 35.203.210.73 | 9143 | US, United States | 73.210.203.35.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 15:46:39.821912 | DENIED | 89.248.163.200 | 3000 | NL, Netherlands | recyber.net | Port Scanner | Exploited Host | Malware | Vulnerable | (0) None
+2025-02-08 15:46:58.345520 | DENIED | 167.94.146.23 | 8888 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:47:17.907426 | DENIED | 167.94.138.104 | 14891 | US, United States | scanner-02.ch1.censys-scanner.com | Port Scanner | (0) None
+2025-02-08 15:47:36.473634 | DENIED | 167.94.138.129 | 8008 | US, United States | scanner-11.ch1.censys-scanner.com | Port Scanner | Malware | (0) None
+2025-02-08 15:47:55.025644 | DENIED | 5.101.6.194 | 1212 | RU, Russian Federation | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:48:14.188898 | DENIED | 205.210.31.243 | 8000 | CA, Canada | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:48:32.866402 | DENIED | 87.120.127.146 | 44319 | BG, Bulgaria | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:48:51.689770 | DENIED | 162.142.125.81 | 389 | US, United States | scanner-13.ch1.censys-scanner.com | Port Scanner | Malware | (0) None
+2025-02-08 15:49:10.733981 | DENIED | 223.199.190.73 | 9042 | CN, China | Unknown Address | (0) None
+2025-02-08 15:49:29.689317 | DENIED | 92.118.39.83 | 31309 | GR, Greece | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:49:49.302604 | DENIED | 118.194.250.22 | 10662 | CN, China | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:50:08.072540 | DENIED | 198.235.24.219 | 2525 | CA, Canada | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:50:48.524048 | DENIED | 206.168.34.160 | 5902 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:51:07.253614 | DENIED | 167.94.138.148 | 18084 | US, United States | scanner-14.ch1.censys-scanner.com | Port Scanner | Malware | (0) None
+2025-02-08 15:51:25.982287 | DENIED | 177.23.200.14 | 30301 | BR, Brazil | 14.200.23.177.fhptelecom.com.br | Port Scanner | Malware | (0) None
+2025-02-08 15:51:44.398430 | DENIED | 167.94.146.45 | 33797 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:52:03.266712 | DENIED | 172.206.143.187 | 520 | GB, United Kingdom | azpdssb28.stretchoid.com | Port Scanner | Malware | (0) None
+2025-02-08 15:52:21.892427 | DENIED | 193.163.125.107 | 11211 | DK, Denmark | hearty.census.internet-measurement.com | Port Scanner | Malware | (0) None
+2025-02-08 15:52:40.516111 | DENIED | 147.185.133.126 | 28139 | US, United States | Unknown Address | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 15:52:59.353840 | DENIED | 193.3.53.10 | 20256 | DK, Denmark | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:53:18.326107 | DENIED | 162.216.150.147 | 47363 | US, United States | 147.150.216.162.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 15:53:36.840514 | DENIED | 162.216.150.119 | 9377 | US, United States | 119.150.216.162.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 15:53:55.501061 | DENIED | 147.185.132.68 | 21280 | US, United States | Unknown Address | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 15:54:14.267362 | DENIED | 167.94.138.137 | 14265 | US, United States | scanner-11.ch1.censys-scanner.com | Port Scanner | Malware | (0) None
+2025-02-08 15:54:32.879084 | DENIED | 180.109.72.26 | 23 | CN, China | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:54:51.313060 | DENIED | 185.224.0.24 | 5005 | TR, Turkey | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:55:28.403780 | DENIED | 102.211.232.63 | 1434 | IP Address not found | Unknown Address | Hacking | Malware | Vulnerable | (0) None
+2025-02-08 15:56:05.555176 | DENIED | 205.210.31.52 | 2001 | CA, Canada | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:56:24.543002 | DENIED | 165.154.182.92 | 11107 | CA, Canada | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:56:43.118813 | DENIED | 139.162.84.112 | 80 | JP, Japan | li1564-112.members.linode.com | Port Scanner | Bad WebBot | Web App Attack | Malware | Vulnerable | (0) None
+2025-02-08 15:57:01.683654 | DENIED | 91.189.91.157 | 54387 | US, United States | alphyn.canonical.com | (0) None
+2025-02-08 15:57:20.094541 | DENIED | 167.94.146.35 | 5304 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:57:38.872002 | DENIED | 87.120.116.177 | 64313 | BG, Bulgaria | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:57:57.939805 | DENIED | 172.170.165.224 | 4330 | US, United States | azpdcg65.stretchoid.com | BruteForce | (0) None
+2025-02-08 15:58:16.707100 | DENIED | 46.19.143.26 | 34567 | A1, Anonymous Proxy | hostedby.privatelayer.com | Port Scanner | Malware | (0) None
+2025-02-08 15:58:54.477521 | DENIED | 193.163.125.96 | 8085 | DK, Denmark | motivating.census.internet-measurement.com | Port Scanner | Malware | (0) None
+2025-02-08 15:59:13.685428 | DENIED | 198.12.68.106 | 8333 | US, United States | 198-12-68-106-host.colocrossing.com | Port Scanner | Malware | (0) None
+2025-02-08 15:59:32.327764 | DENIED | 205.210.31.236 | 1025 | CA, Canada | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 15:59:50.776408 | DENIED | 152.32.173.15 | 59600 | US, United States | Unknown Address | BruteForce | Malware | (0) None
+2025-02-08 16:00:31.244547 | DENIED | 8.211.37.65 | 44444 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:00:49.919795 | DENIED | 109.201.152.172 | 42702 | NL, Netherlands | Unknown Address | (0) None
+2025-02-08 16:01:09.284052 | DENIED | 167.94.138.102 | 11041 | US, United States | scanner-02.ch1.censys-scanner.com | Port Scanner | Malware | (0) None
+2025-02-08 16:01:27.927697 | DENIED | 167.94.146.73 | 33576 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:01:46.884678 | DENIED | 162.142.125.240 | 46736 | US, United States | scanner-10.ch1.censys-scanner.com | Hacking | (0) None
+2025-02-08 16:02:06.100540 | DENIED | 207.90.244.4 | 21327 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:02:24.656400 | DENIED | 167.94.145.86 | 4408 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:02:43.429966 | DENIED | 185.242.226.53 | 8433 | GB, United Kingdom | security.criminalip.com | Port Scanner | Malware | (0) None
+2025-02-08 16:03:19.587551 | DENIED | 198.235.24.245 | 47808 | CA, Canada | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:03:38.889340 | DENIED | 123.166.135.253 | 23 | CN, China | Unknown Address | Port Scanner | (0) None
+2025-02-08 16:03:59.511641 | DENIED | 147.185.132.157 | 9318 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:04:18.802812 | DENIED | 213.32.32.88 | 3191 | FR, France | tori.probe.onyphe.net | Port Scanner | Malware | (0) None
+2025-02-08 16:04:37.606333 | DENIED | 51.178.236.249 | 6081 | FR, France | roma.probe.onyphe.net | Port Scanner | Malware | (0) None
+2025-02-08 16:04:57.525080 | DENIED | 112.26.83.236 | 23 | CN, China | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:05:16.282158 | DENIED | 77.138.67.225 | 23 | IL, Israel | jerusalem-hotnet145-arris1-77-138-64-225.hotnet.net.il | Port Scanner | (0) None
+2025-02-08 16:05:34.982421 | DENIED | 87.120.116.209 | 123 | BG, Bulgaria | Unknown Address | Hacking | Malware | Vulnerable | (0) None
+2025-02-08 16:05:53.750005 | DENIED | 146.88.241.133 | 7784 | US, United States | www.internet-albedo.net |  Malware | (0) None
+2025-02-08 16:06:32.725837 | DENIED | 117.245.223.217 | 23 | IN, India | Unknown Address | (0) None
+2025-02-08 16:06:51.162721 | DENIED | 162.216.150.126 | 22127 | US, United States | 126.150.216.162.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 16:07:10.489975 | DENIED | 167.94.145.95 | 7373 | US, United States | Unknown Address | Port Scanner | (0) None
+2025-02-08 16:07:28.936508 | DENIED | 104.40.91.84 | 2181 | US, United States | azpdwgc34.stretchoid.com | Port Scanner | Hacking | BruteForce | Exploited Host | SSH | Malware | (0) None
+2025-02-08 16:07:47.683019 | DENIED | 64.62.197.18 | 4081 | US, United States | scan-44b.shadowserver.org | DDoS Attack | Malware | (0) None
+2025-02-08 16:09:39.018443 | DENIED | 109.201.152.163 | 42702 | NL, Netherlands | Unknown Address | (0) None
+2025-02-08 16:10:35.422199 | DENIED | 170.106.72.93 | 80 | CN, China | Unknown Address | Web App Attack | Malware | (0) None
+2025-02-08 16:10:54.615846 | DENIED | 135.148.57.185 | 16071 | US, United States | coleman.probe.onyphe.net | Port Scanner | Malware | (0) None
+2025-02-08 16:11:13.267618 | DENIED | 62.60.211.207 | 4000 | IR, Iran, Islamic Republic of | Unknown Address | BruteForce | Malware | (0) None
+2025-02-08 16:11:31.830671 | DENIED | 51.81.110.57 | 26348 | FR, France | susie.probe.onyphe.net | Port Scanner | Malware | (0) None
+2025-02-08 16:11:50.268251 | DENIED | 204.76.203.80 | 123 | US, United States | hosted-by.pfcloud.io | BruteForce | SSH | Malware | Vulnerable | (0) None
+2025-02-08 16:12:08.690414 | DENIED | 184.105.139.97 | 8060 | US, United States | scan-03f.shadowserver.org | Port Scanner | Malware | (0) None
+2025-02-08 16:12:30.300481 | DENIED | 206.168.34.161 | 1723 | US, United States | Unknown Address | Port Scanner | Hacking | Malware | (0) None
+2025-02-08 16:12:49.168167 | DENIED | 162.142.125.237 | 36794 | US, United States | scanner-10.ch1.censys-scanner.com | Port Scanner | Malware | (0) None
+2025-02-08 16:13:09.223492 | DENIED | 167.94.146.33 | 57171 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:13:28.027562 | DENIED | 146.88.241.158 | 10001 | US, United States | www.internet-albedo.net | (0) None
+2025-02-08 16:13:50.071096 | DENIED | 45.93.20.184 | 7322 | IP Address not found | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:14:10.409838 | DENIED | 194.48.251.231 | 5432 | IP Address not found | Unknown Address | BruteForce | Malware | (0) None
+2025-02-08 16:14:28.864915 | DENIED | 171.42.126.248 | 23 | CN, China | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:14:48.066924 | DENIED | 52.189.77.237 | 9160 | US, United States | azpdcg12.stretchoid.com |  Malware | (0) None
+2025-02-08 16:15:31.337233 | DENIED | 5.135.238.153 | 30006 | FR, France | burgess.probe.onyphe.net | Port Scanner | Malware | (0) None
+2025-02-08 16:15:50.253520 | DENIED | 162.216.150.161 | 29000 | US, United States | 161.150.216.162.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 16:16:08.959331 | DENIED | 35.203.211.109 | 48722 | US, United States | 109.211.203.35.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 16:17:24.432045 | DENIED | 47.254.15.150 | 8074 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:17:53.302817 | DENIED | 165.154.41.201 | 6946 | CA, Canada | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:18:11.945215 | DENIED | 167.94.145.93 | 1696 | US, United States | Unknown Address | Port Scanner | (0) None
+2025-02-08 16:18:59.910412 | DENIED | 118.193.57.218 | 2707 | CN, China | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:19:18.892085 | DENIED | 165.154.129.151 | 11598 | CA, Canada | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:19:37.736431 | DENIED | 147.185.132.125 | 9949 | US, United States | Unknown Address | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 16:19:57.080465 | DENIED | 194.48.251.223 | 27017 | IP Address not found | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:20:35.492239 | DENIED | 123.58.207.140 | 4071 | CN, China | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:20:54.246189 | DENIED | 142.93.131.48 | 30301 | CA, Canada | rose.uz | Fraud VoIP | Port Scanner | Malware | (0) None
+2025-02-08 16:21:13.183919 | DENIED | 205.210.31.88 | 44818 | CA, Canada | Unknown Address | Hacking | Malware | (0) None
+2025-02-08 16:21:32.618885 | DENIED | 185.125.190.57 | 50967 | GB, United Kingdom | prod-ntp-4.ntp1.ps5.canonical.com | (0) None
+2025-02-08 16:21:51.433692 | DENIED | 64.62.197.141 | 9999 | US, United States | scan-48e.shadowserver.org | Port Scanner | Malware | (0) None
+2025-02-08 16:22:10.659678 | DENIED | 162.216.150.237 | 45206 | US, United States | 237.150.216.162.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 16:22:29.949324 | DENIED | 205.210.31.37 | 135 | CA, Canada | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:22:48.479223 | DENIED | 152.168.108.237 | 23 | AR, Argentina | 237-108-168-152.fibertel.com.ar | DDoS Attack | Port Scanner | Hacking | BruteForce | (0) None
+2025-02-08 16:23:07.568240 | DENIED | 175.0.190.201 | 23 | CN, China | Unknown Address | (0) None
+2025-02-08 16:24:03.288382 | DENIED | 45.89.127.3 | 443 | IP Address not found | eastgategroup.team | Web Spam | (0) None
+2025-02-08 16:24:22.427672 | DENIED | 179.43.191.146 | 82 | CH, Switzerland | hostedby.privatelayer.com | Hacking | Malware | (0) None
+2025-02-08 16:24:41.157271 | DENIED | 193.163.125.95 | 4567 | DK, Denmark | angelic.census.internet-measurement.com | Port Scanner | Malware | (0) None
+2025-02-08 16:24:59.916772 | DENIED | 146.190.48.172 | 9443 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:25:18.660767 | DENIED | 113.249.159.56 | 4455 | CN, China | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:25:37.864792 | DENIED | 162.216.149.39 | 9823 | US, United States | 39.149.216.162.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 16:25:56.471951 | DENIED | 35.203.211.241 | 2031 | US, United States | 241.211.203.35.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 16:26:15.096371 | DENIED | 177.72.195.114 | 8080 | BR, Brazil | Unknown Address | Port Scanner | Hacking | Exploited Host | Malware | (0) None
+2025-02-08 16:26:53.478059 | DENIED | 51.81.215.72 | 32494 | FR, France | yasin.probe.onyphe.net | Port Scanner | Malware | (0) None
+2025-02-08 16:27:12.551411 | DENIED | 167.94.145.16 | 2083 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:27:31.498880 | DENIED | 51.91.174.249 | 8159 | FR, France | foreman.probe.onyphe.net | Port Scanner | Malware | (0) None
+2025-02-08 16:28:08.930055 | DENIED | 83.222.191.42 | 20411 | BG, Bulgaria | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:28:28.014109 | DENIED | 162.216.150.220 | 9264 | US, United States | 220.150.216.162.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 16:29:44.696808 | DENIED | 147.185.132.162 | 465 | US, United States | Unknown Address | DDoS Attack | Malware | (0) None
+2025-02-08 16:32:00.646542 | DENIED | 167.94.146.32 | 33885 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:32:21.856441 | DENIED | 51.178.236.248 | 5148 | FR, France | higgins.probe.onyphe.net | Port Scanner | Malware | (0) None
+2025-02-08 16:32:40.827152 | DENIED | 162.216.149.47 | 8098 | US, United States | 47.149.216.162.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 16:33:00.536708 | DENIED | 167.94.146.47 | 14901 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:33:38.672086 | DENIED | 2.19.198.91 | 53 | EU, Europe | a2-19-198-91.deploy.static.akamaitechnologies.com | (0) None
+2025-02-08 16:33:57.739361 | DENIED | 213.177.96.91 | 53 | RU, Russian Federation | Unknown Address | (0) None
+2025-02-08 16:35:05.532957 | DENIED | 45.135.95.25 | 22 | IP Address not found | h25.iqdata.center | Web App Attack | Malware | (0) None
+2025-02-08 16:36:02.343388 | DENIED | 77.247.181.217 | 42702 | NL, Netherlands | Unknown Address |  Malware | (0) None
+2025-02-08 16:36:21.267846 | DENIED | 212.73.221.104 | 53 | FR, France | Unknown Address | (0) None
+2025-02-08 16:36:44.591596 | DENIED | 189.115.181.173 | 53 | BR, Brazil | Unknown Address | (0) None
+2025-02-08 16:37:05.787387 | DENIED | 212.142.173.53 | 53 | ES, Spain | 53.212-142-173.static.clientes.euskaltel.es | (0) None
+2025-02-08 16:37:27.306194 | DENIED | 78.107.31.203 | 53 | RU, Russian Federation | cnr01-stavropol.corbina.net | (0) None
+2025-02-08 16:38:30.137256 | DENIED | 147.185.132.86 | 48166 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:39:41.102045 | DENIED | 147.185.132.134 | 9211 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:40:38.311690 | DENIED | 185.242.226.117 | 443 | GB, United Kingdom | security.criminalip.com |  Malware | (0) None
+2025-02-08 16:41:06.854782 | DENIED | 45.235.98.33 | 443 | IP Address not found | 33.98.235.45.in-addr.arpa | Port Scanner | Malware | (0) None
+2025-02-08 16:41:36.252707 | DENIED | 36.106.167.167 | 8086 | CN, China | Unknown Address |  Malware | (0) None
+2025-02-08 16:43:04.931952 | DENIED | 162.216.150.203 | 49221 | US, United States | 203.150.216.162.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 16:43:33.139719 | DENIED | 171.244.48.137 | 3389 | VN, Vietnam | Unknown Address | Port Scanner | Hacking | BruteForce | (0) None
+2025-02-08 16:43:59.075822 | DENIED | 65.49.1.57 | 5443 | US, United States | scan-55f.shadowserver.org | DDoS Attack | Malware | (0) None
+2025-02-08 16:44:52.659872 | DENIED | 135.148.57.184 | 10889 | US, United States | reed.probe.onyphe.net | Port Scanner | Malware | (0) None
+2025-02-08 16:45:14.318583 | DENIED | 104.209.40.179 | 5985 | US, United States | azpdwsb72.stretchoid.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 16:45:42.482999 | DENIED | 141.94.75.26 | 87 | GB, United Kingdom | px2.dawan.fr | Port Scanner | Malware | (0) None
+2025-02-08 16:46:10.227139 | DENIED | 176.113.115.40 | 8022 | RU, Russian Federation | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 16:46:43.823191 | DENIED | 198.235.24.227 | 27017 | CA, Canada | Unknown Address | Hacking | Malware | (0) None
+2025-02-08 16:47:19.773143 | DENIED | 145.102.6.107 | 53 | NL, Netherlands | please.visit.www.openintel.nl | (0) None
+2025-02-08 16:48:00.028515 | DENIED | 39.62.101.128 | 23 | PK, Pakistan | Unknown Address | Port Scanner | (0) None
+2025-02-08 16:48:36.808538 | DENIED | 51.81.110.56 | 19748 | FR, France | chapman.probe.onyphe.net | Port Scanner | Malware | (0) None
+2025-02-08 16:49:16.579316 | DENIED | 147.185.132.60 | 3344 | US, United States | Unknown Address | DDoS Attack | Malware | (0) None
+2025-02-08 16:49:56.063706 | DENIED | 172.169.109.202 | 5660 | US, United States | azpdcgb57.stretchoid.com | BruteForce | Malware | (0) None
+2025-02-08 16:50:37.231795 | DENIED | 206.168.34.174 | 12000 | US, United States | Unknown Address | Hacking | Malware | (0) None
+2025-02-08 16:51:17.832726 | DENIED | 146.88.240.186 | 8291 | US, United States | www.internet-albedo.net | Port Scanner | Malware | (0) None
+2025-02-08 16:52:03.110144 | DENIED | 146.88.240.146 | 9001 | US, United States | www.internet-albedo.net | Port Scanner | Malware | (0) None
+2025-02-08 16:52:55.581247 | DENIED | 147.185.133.178 | 58776 | US, United States | Unknown Address | Hacking | Malware | (0) None
+2025-02-08 16:53:45.132219 | DENIED | 162.216.149.241 | 48566 | US, United States | 241.149.216.162.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 16:54:36.107467 | DENIED | 162.216.18.113 | 7001 | US, United States | bogota.scan.bufferover.run | DDoS Attack | Malware | (0) None
+2025-02-08 16:55:21.195453 | DENIED | 57.128.188.121 | 445 | BE, Belgium | ns3239153.ip-57-128-188.eu | Port Scanner | Hacking | Malware | (0) None
+2025-02-08 16:56:10.292065 | DENIED | 4.255.102.168 | 5800 | US, United States | azpdesc38.stretchoid.com | Hacking | Malware | (0) None
+2025-02-08 16:57:40.192112 | DENIED | 80.82.77.139 | 19 | NL, Netherlands | dojo.census.shodan.io | BruteForce | Malware | (0) None
+2025-02-08 16:58:18.006203 | DENIED | 162.216.150.228 | 7979 | US, United States | 228.150.216.162.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 16:58:58.220303 | DENIED | 61.2.215.218 | 23 | IN, India | static.ftth.tvm.61.2.215.218.bsnl.in | Port Scanner | Malware | (0) None
+2025-02-08 16:59:33.609448 | DENIED | 87.120.116.32 | 5902 | BG, Bulgaria | Unknown Address | DDoS Attack | Malware | (0) None
+2025-02-08 17:00:42.252547 | DENIED | 93.5.159.47 | 443 | FR, France | 47.159.5.93.rev.sfr.net | Web App Attack | (0) None
+2025-02-08 17:01:16.972796 | DENIED | 162.142.125.92 | 5984 | US, United States | scanner-13.ch1.censys-scanner.com | BruteForce | Malware | (0) None
+2025-02-08 17:01:52.544933 | DENIED | 176.97.210.24 | 13231 | RU, Russian Federation | tube-hosting.com | (0) None
+2025-02-08 17:02:24.101978 | DENIED | 113.120.154.132 | 23 | CN, China | Unknown Address | Port Scanner | (0) None
+2025-02-08 17:03:00.973296 | DENIED | 185.242.226.84 | 4022 | GB, United Kingdom | security.criminalip.com | DDoS Attack | Malware | (0) None
+2025-02-08 17:03:35.735804 | DENIED | 75.138.201.22 | 23 | US, United States | syn-075-138-201-022.res.spectrum.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 17:04:14.821538 | DENIED | 198.235.24.72 | 10255 | CA, Canada | Unknown Address | BruteForce | Malware | (0) None
+2025-02-08 17:04:53.204842 | DENIED | 47.240.54.105 | 6379 | US, United States | Unknown Address | BruteForce | Malware | (0) None
+2025-02-08 17:05:25.612757 | DENIED | 8.211.39.61 | 8393 | US, United States | Unknown Address | Hacking | Malware | (0) None
+2025-02-08 17:06:04.443908 | DENIED | 167.94.145.81 | 24229 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 17:06:46.105536 | DENIED | 167.94.146.44 | 49297 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 17:07:36.447685 | DENIED | 206.168.34.145 | 15516 | US, United States | Unknown Address | Hacking | (0) None
+2025-02-08 17:08:15.259806 | DENIED | 94.156.179.221 | 3128 | BG, Bulgaria | Unknown Address | DDoS Attack | Malware | (0) None
+2025-02-08 17:09:18.140229 | DENIED | 147.185.132.14 | 9581 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 17:09:57.890746 | DENIED | 20.118.68.128 | 2222 | US, United States | azpdss31.stretchoid.com | BruteForce | SSH | Malware | (0) None
+2025-02-08 17:10:34.796610 | DENIED | 180.163.220.111 | 80 | CN, China | Unknown Address | (0) None
+2025-02-08 17:11:13.936868 | DENIED | 162.216.150.111 | 8172 | US, United States | 111.150.216.162.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 17:12:00.846926 | DENIED | 180.163.232.85 | 53 | CN, China | Unknown Address | (0) None
+2025-02-08 17:12:45.765778 | DENIED | 180.163.232.69 | 53 | CN, China | Unknown Address | (0) None
+2025-02-08 17:13:24.940109 | DENIED | 180.163.220.41 | 80 | CN, China | Unknown Address | Web Spam | BruteForce | Web App Attack | (0) None
+2025-02-08 17:13:55.899954 | DENIED | 180.163.220.45 | 80 | CN, China | Unknown Address | (0) None
+2025-02-08 17:14:47.993843 | DENIED | 180.163.220.95 | 80 | CN, China | Unknown Address | Hacking | Web App Attack | (0) None
+2025-02-08 17:15:33.534383 | DENIED | 167.94.138.136 | 41795 | US, United States | scanner-11.ch1.censys-scanner.com | BruteForce | Malware | (0) None
+2025-02-08 17:16:28.430933 | DENIED | 42.100.56.156 | 23 | CN, China | Unknown Address | Port Scanner | Hacking | (0) None
+2025-02-08 17:18:00.580176 | DENIED | 206.168.34.129 | 24203 | US, United States | Unknown Address | Hacking | Malware | (0) None
+2025-02-08 17:18:37.910957 | DENIED | 52.189.75.15 | 111 | US, United States | azpdcg10.stretchoid.com | BruteForce | Malware | (0) None
+2025-02-08 17:19:13.177797 | DENIED | 147.185.132.76 | 8888 | US, United States | Unknown Address | BruteForce | Malware | (0) None
+2025-02-08 17:20:16.576068 | DENIED | 165.154.173.141 | 5853 | CA, Canada | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 17:22:17.530756 | DENIED | 172.69.154.74 | 53 | JP, Japan | Unknown Address | (0) None
+2025-02-08 17:23:17.403703 | DENIED | 180.163.220.50 | 443 | CN, China | Unknown Address | Hacking | Web App Attack | (0) None
+2025-02-08 17:23:43.650545 | DENIED | 13.91.165.193 | 5601 | US, United States | azpdws33.stretchoid.com | Port Scanner | Malware | (0) None
+2025-02-08 17:24:06.193278 | DENIED | 180.163.220.51 | 443 | CN, China | Unknown Address | Hacking | Web App Attack | (0) None
+2025-02-08 17:24:30.909784 | DENIED | 180.163.220.61 | 443 | CN, China | Unknown Address | (0) None
+2025-02-08 17:24:52.352137 | DENIED | 180.163.220.52 | 443 | CN, China | Unknown Address | (0) None
+2025-02-08 17:25:15.584001 | DENIED | 35.203.210.102 | 46426 | US, United States | 102.210.203.35.bc.googleusercontent.com | Port Scanner | Malware | (0) None
+2025-02-08 17:25:41.600340 | DENIED | 165.154.118.50 | 458 | CA, Canada | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 17:26:04.356411 | DENIED | 104.219.239.46 | 8094 | US, United States | ip-104-219-239-46.host.datawagon.net | Port Scanner | Malware | (0) None
+2025-02-08 17:26:32.220643 | DENIED | 180.163.232.75 | 53 | CN, China | Unknown Address | (0) None
+2025-02-08 17:26:58.813492 | DENIED | 216.151.165.128 | 47996 | US, United States | undefined.hostname.localhost | (0) None
+2025-02-08 17:28:14.069738 | DENIED | 180.163.220.99 | 443 | CN, China | Unknown Address | Web App Attack | Malware | (0) None
+2025-02-08 17:28:38.991238 | DENIED | 180.163.220.47 | 443 | CN, China | Unknown Address | Hacking | Web App Attack | Malware | (0) None
+2025-02-08 17:29:29.557645 | DENIED | 180.163.220.46 | 443 | CN, China | Unknown Address | (0) None
+2025-02-08 17:29:57.246233 | DENIED | 167.94.146.46 | 22487 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 17:32:03.220239 | DENIED | 185.224.0.56 | 123 | TR, Turkey | Unknown Address | Port Scanner | Hacking | (0) None
+2025-02-08 17:32:27.215710 | DENIED | 45.135.194.65 | 25565 | IP Address not found | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 17:33:38.517859 | DENIED | 147.185.132.208 | 9364 | US, United States | Unknown Address | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 17:34:02.948145 | DENIED | 167.172.153.88 | 51692 | GB, United Kingdom | Unknown Address | BruteForce | SSH | Malware | (0) None
+2025-02-08 17:34:26.634079 | DENIED | 118.193.65.234 | 47557 | CN, China | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 17:34:49.944945 | DENIED | 51.81.181.169 | 58888 | FR, France | davila.probe.onyphe.net | Port Scanner | Malware | (0) None
+2025-02-08 17:35:12.017518 | DENIED | 4.255.98.126 | 5222 | US, United States | azpdesc12.stretchoid.com | DDoS Attack | Malware | (0) None
+2025-02-08 17:35:34.685841 | DENIED | 15.204.37.25 | 22222 | US, United States | maia.probe.onyphe.net | Port Scanner | Malware | (0) None
+2025-02-08 17:36:46.310004 | DENIED | 101.36.127.24 | 6045 | CN, China | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 17:39:26.858047 | DENIED | 193.163.125.113 | 2049 | DK, Denmark | tranquil.census.internet-measurement.com | Hacking | Malware | (0) None
+2025-02-08 17:39:48.269444 | DENIED | 205.210.31.108 | 9418 | CA, Canada | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 17:40:32.668793 | DENIED | 43.252.229.69 | 2222 | HK, Hong Kong | Unknown Address | BruteForce | Malware | (0) None
+2025-02-08 17:40:59.634086 | DENIED | 165.154.182.174 | 10469 | CA, Canada | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 17:41:29.122072 | DENIED | 162.142.125.138 | 46639 | US, United States | scanner-01.ch1.censys-scanner.com | Port Scanner | (0) None
+2025-02-08 17:42:03.082278 | DENIED | 152.32.143.189 | 994 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 17:42:31.747169 | DENIED | 165.227.231.167 | 7000 | GB, United Kingdom | Unknown Address | Port Scanner | Hacking | (0) None
+2025-02-08 17:43:04.445144 | DENIED | 35.203.210.143 | 65240 | US, United States | 143.210.203.35.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 17:43:33.272165 | DENIED | 174.138.11.56 | 53 | NL, Netherlands | Unknown Address | (0) None
+2025-02-08 17:43:58.004704 | DENIED | 152.32.134.166 | 49158 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 17:44:30.681179 | DENIED | 152.32.148.250 | 4138 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 17:44:55.097450 | DENIED | 45.8.187.2 | 4301 | IP Address not found | Unknown Address | Port Scanner | (0) None
+2025-02-08 17:45:20.727104 | DENIED | 139.162.116.160 | 1194 | JP, Japan | li1600-160.members.linode.com | BruteForce | Malware | (0) None
+2025-02-08 17:45:52.266947 | DENIED | 101.36.112.101 | 2922 | CN, China | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 17:46:18.861266 | DENIED | 198.235.24.40 | 44344 | CA, Canada | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 17:46:47.077670 | DENIED | 48.216.198.67 | 8980 | US, United States | azpdegb96.stretchoid.com | Port Scanner | Malware | (0) None
+2025-02-08 17:47:12.417053 | DENIED | 5.182.17.111 | 6881 | IP Address not found | vmi2394985.contaboserver.net | Hacking | Malware | (0) None
+2025-02-08 17:47:36.087081 | DENIED | 35.203.210.164 | 34449 | US, United States | 164.210.203.35.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 17:48:00.945426 | DENIED | 193.163.125.86 | 6466 | DK, Denmark | graceful.census.internet-measurement.com | Port Scanner | Malware | (0) None
+2025-02-08 17:48:24.634974 | DENIED | 193.163.125.80 | 443 | DK, Denmark | soulful.census.internet-measurement.com | Port Scanner | Malware | (0) None
+2025-02-08 17:48:47.177009 | DENIED | 193.163.125.254 | 443 | DK, Denmark | windbag.census.internet-measurement.com | Hacking | Malware | (0) None
+2025-02-08 17:49:06.712444 | DENIED | 118.123.105.105 | 9060 | CN, China | Unknown Address | BruteForce | SSH | Malware | (0) None
+2025-02-08 17:49:32.403807 | DENIED | 162.158.101.143 | 53 | PL, Poland | Unknown Address | (0) None
+2025-02-08 17:50:03.202638 | DENIED | 162.216.150.128 | 65533 | US, United States | 128.150.216.162.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 17:50:31.971020 | DENIED | 153.137.51.249 | 82 | JP, Japan | p2211249-ipxg00c01fukuokachu.fukuoka.ocn.ne.jp | Port Scanner | Malware | (0) None
+2025-02-08 17:51:32.646584 | DENIED | 47.251.93.102 | 9582 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 17:52:01.886808 | DENIED | 162.216.150.45 | 2281 | US, United States | 45.150.216.162.bc.googleusercontent.com | Port Scanner | BruteForce | Malware | (0) None
+2025-02-08 17:52:57.888897 | DENIED | 156.226.175.167 | 123 | ZA, South Africa | Unknown Address | BruteForce | (0) None
+2025-02-08 17:53:23.654473 | DENIED | 40.69.198.152 | 80 | IE, Ireland | Unknown Address | Hacking | Web App Attack | (0) None
+2025-02-08 17:54:35.182276 | DENIED | 167.94.138.99 | 52737 | US, United States | scanner-02.ch1.censys-scanner.com | Port Scanner | Malware | (0) None
+2025-02-08 17:55:51.305428 | DENIED | 78.128.114.90 | 9443 | BG, Bulgaria | nksisha.click | Port Scanner | Malware | Vulnerable | (0) None
+2025-02-08 17:56:15.546804 | DENIED | 65.49.1.111 | 500 | US, United States | scan-59d.shadowserver.org | DDoS Attack | Malware | (0) None
+2025-02-08 17:56:38.992722 | DENIED | 198.235.24.239 | 8888 | CA, Canada | Unknown Address | Hacking | Malware | (0) None
+2025-02-08 17:57:01.287309 | DENIED | 59.89.130.94 | 23 | IN, India | Unknown Address | Hacking | Web App Attack | (0) None
+2025-02-08 17:57:22.270784 | DENIED | 14.52.204.73 | 9000 | KR, Korea, Republic of | Unknown Address | BruteForce | Malware | (0) None
+2025-02-08 17:57:44.279883 | DENIED | 47.250.143.143 | 8012 | US, United States | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 17:58:03.858630 | DENIED | 198.235.24.93 | 8088 | CA, Canada | Unknown Address | Hacking | Malware | (0) None
+2025-02-08 17:58:23.973933 | DENIED | 176.113.115.155 | 3389 | RU, Russian Federation | Unknown Address | Port Scanner | Malware | (0) None
+2025-02-08 17:58:42.183188 | DENIED | 157.245.70.197 | 8090 | US, United States | Unknown Address | (0) None
+2025-02-08 17:59:03.023386 | DENIED | 91.191.209.198 | 33867 | BG, Bulgaria | Unknown Address | Port Scanner | Malware | Vulnerable | (0) None
+2025-02-08 17:59:24.440550 | DENIED | 205.210.31.38 | 7001 | CA, Canada | Unknown Address | Hacking | Malware | (0) None
+2025-02-08 17:59:47.326430 | DENIED | 64.62.156.24 | 3389 | US, United States | scan-61-0.shadowserver.org | BruteForce | Malware | (0) None
